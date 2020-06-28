@@ -10,4 +10,8 @@ run:<br>
 node gunServer.js<br>
 <br>
 browse:<br>
-https://localhost/
+https://localhost/ <br>
+<br>
+Create a user and enter a room.<br>
+Do the same with another browser instance.<br>
+Start testing. :-) <br>
