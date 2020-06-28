@@ -4,6 +4,10 @@
 setup:<br>
 install nodejs<br>
 get videoMesh<br>
+configure certificates for ssl<br>
 <br>
 run:<br>
-node gunServer.js
+node gunServer.js<br>
+<br>
+browse:
+https://localhost/
